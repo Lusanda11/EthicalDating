@@ -1,2 +1,2 @@
-# EthicalDating-
+# EthicalDating
 Ethical dating platform.
